@@ -170,6 +170,15 @@ footer{
 
 .projects{
     padding-top: 5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+#screenshot{
+    width: 100%; 
+    height: auto; 
+    max-width: 80%;
+    padding-left: 10%;
 }
 
 .projects h2, p, a{
