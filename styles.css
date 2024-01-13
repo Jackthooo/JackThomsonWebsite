@@ -142,6 +142,7 @@ ul{
 .albums{
     display: flex; 
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .albums figure{
