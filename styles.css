@@ -208,3 +208,54 @@ footer{
 .projects a{
     
 }
+
+.spain img{
+    width: auto; 
+    height: 100%; 
+    max-height: 300px; 
+    max-width: 300px;
+}
+
+.spain{
+    display: flex; 
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.spain figure{
+    padding-top: 2rem;
+}
+
+.washington img{
+    width: auto; 
+    height: 100%; 
+    max-height: 300px; 
+    max-width: 300px;
+}
+
+.washington{
+    display: flex; 
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.washington figure{
+    padding-top: 2rem;
+}
+
+.california img{
+    width: auto; 
+    height: 100%; 
+    max-height: 300px; 
+    max-width: 300px;
+}
+
+.california{
+    display: flex; 
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.california figure{
+    padding-top: 2rem;
+}
