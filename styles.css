@@ -50,6 +50,13 @@ ul{
     font-weight: 700;
     line-height: normal; 
     letter-spacing: -0.0625rem;
+    border-radius: 25px;
+}
+
+.nav-item a:hover{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(212,253,45,0.7917542016806722) 100%);
+    text-decoration: none;
+    color: white;
 }
 
 .hero{
